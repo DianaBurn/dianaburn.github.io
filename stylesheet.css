@@ -1,0 +1,91 @@
+
+.logo img
+ {display: block;
+	height:300px;
+	width:300px;
+	margin: auto;
+}
+
+.pic img {
+display: block;
+	height: 500px;
+	width:900px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.photo img {
+display: block;
+	height: 450px;
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+.nav a {
+  color: #5a5a5a;
+  font-size: 25px;
+  padding-top:14px;
+  padding-bottom:14px;
+  padding-left:10px;
+  padding-right:10px;
+  text-transform:uppercase;
+  text-decoration:none;
+  display:inline;
+  font-family: Century Gothic;
+  text-align: center;}
+  
+  .nav li {
+  display:inline;
+	height: 50x;
+	width: 50x;
+  }
+  
+  p {
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: 22px;
+	color: #5a5a5a;  
+}
+
+.first {font-weight:bold;
+font-size: 27px;}
+
+.vk img {
+	height: 150px;
+	width: 170px;
+	margin: auto;
+	text-align: center;
+}
+
+.namaste {font-weight:bold;
+font-size: 27px;}
+
+.mehndi { font-weight:bold;
+font-size: 27px;}
+
+.dot {font-weight:bold;
+font-size: 27px;} 
+
+.footer {
+	border-radius: 0px;
+	border: none;
+	background-color: #BCD2EE;
+	height: 5px;
+	width: 900px;
+	margin: auto;
+	text-align: center;
+}
+
+.jpg img {
+	width:400px;
+	height:400px;
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+table, td {
+	border: 3px white ;
+	
+}
