@@ -6,6 +6,10 @@
 	margin: auto;
 }
 
+.logo{
+	margin-top:50px;
+}
+
 .pic img {
 display: block;
 	height: 500px;
@@ -27,8 +31,8 @@ display: block;
   font-size: 25px;
   padding-top:14px;
   padding-bottom:14px;
-  padding-left:10px;
-  padding-right:10px;
+  padding-left:20px;
+  padding-right:20px;
   text-transform:uppercase;
   text-decoration:none;
   display:inline;
@@ -40,6 +44,12 @@ display: block;
 	height: 50x;
 	width: 50x;
   }
+
+.nav{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+}
   
   p {
 	text-align: center;
@@ -95,6 +105,10 @@ height: 60px;
     width: 60px;
     margin-left:auto;
 	margin-right:auto;
+}
+
+.contact1{
+	margin-bottom:50px;
 }
 
 #table {
