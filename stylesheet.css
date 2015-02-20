@@ -10,6 +10,11 @@
 	margin-top:50px;
 }
 
+#table {
+margin-bottom:50px;}
+
+.photo {margin-top:50px;}
+
 .pic img {
 display: block;
 	height: 500px;
