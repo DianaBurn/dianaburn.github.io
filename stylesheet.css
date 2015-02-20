@@ -67,7 +67,7 @@ font-size: 27px;}
 .dot {font-weight:bold;
 font-size: 27px;} 
 
-.footer {
+.head  {
 	border-radius: 0px;
 	border: none;
 	background-color: #BCD2EE;
@@ -87,5 +87,15 @@ font-size: 27px;}
 
 table, td {
 	border: 3px white ;
-	
 }
+
+
+.contact1 img {
+height: 60px;
+    width: 60px;
+    margin-left:auto;
+	margin-right:auto;
+}
+
+#table {
+margin:auto;}
